@@ -11,8 +11,7 @@ A simple login web page using HTML, CSS, and JavaScript. The page includes form 
     
 2. Open the index.html file in your web browser.
 
-## Live Demo
-[Live Demo Link](#)
+
 
 ## Features
 - Username/email field validation
@@ -46,7 +45,7 @@ This project implements a modern, responsive login form with client-side validat
 - HTML5
 - CSS3
 - JavaScript (ES6+)
-- [Boxicons](https://boxicons.com/) for icons
+
 
 ## Setup
 
